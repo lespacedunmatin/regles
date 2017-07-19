@@ -1,3 +1,5 @@
+# Séminaire
+
 L’incubateur, en tant qu’organisation, est un produit vivant construit par ses membres. Le séminaire en est l’instance officielle pour faire remonter des questions, propositions et râles à vocation d’être soumis à la volonté générale. La gouvernance de l'Incubateur s'inspire librement de celle des équipes autonomes. Celles et ceux qui le veulent y participent en exprimant l'avis et le vote qui sont les leurs. Rousseau serait fier.
 
 > _Je suis très fier de l’Incubateur_ ~ *Rousseau*

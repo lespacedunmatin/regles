@@ -1,9 +1,14 @@
+# Slack
+
 L'incubateur utilise [Slack](http://startups-detat.slack.com/) comme service de messagerie instantanée.
 
-## S'inscrire
 
-- **Avec une adresse email en `@beta.gouv.fr` :** aller sur http://startups-detat.slack.com/ et se créer un compte.
-- **Avec n'importe quel autre email :** demander à @MattiSG, par exemple.
+## Ligne de conduite sur Slack
+
+TL;DR : les canaux publics de Slack ne sont pas la machine à café. Moins de :hankey: et plus de :heart:
+
+> Il faut à mon avis être très précis sur ce que l’on considère comme « déplacé ». Soyons iconoclastes, et n’ayons pas peur de parler de quoi que se soit s’il le faut ; mais restons respectueux des personnes avec qui nous pouvons être amenés à interagir, quoi que l’on pense d’elles, surtout en évitant les invectives, attaques et autres trolls. La censure étant un mécanisme de contrôle social et de la pensée, on risque de perdre notre quintessence rénovatrice et disruptive si l’on n’arrive pas à maîtriser cet enjeu.
+
 
 ## Conventions de nommage des canaux
 
@@ -31,52 +36,6 @@ Les canaux de startups sont préfixés par `startup-`. Lorsqu'ils atteignent un 
 Les préfixes et suffixes sont séparés par des `-`. Les noms de base sont joints par des `_`.
 
 _Voir https://github.com/sgmap/beta.wip/pull/1 pour tout l'historique de ces conventions._
-
-## Commandes
-
-Plusieurs commandes « slash » sont disponibles pour nous faciliter la vie. Ces commandes sont activées en écrivant un message commençant par une barre oblique (`/`).
-
-### `/trad`
-
-Comprendre et documenter les acronymes administratifs étranges. N'hésite pas à enrichir ce glossaire partagé au fur et à mesure de tes découvertes :wink:
-
-Exemple :
-
-> - j'ai vu la DGA de la DGFIP au SIDSIC
-> - /trad SIDSIC
-> - _bot :_ SIDSIC : Service interministériel départemental et systèmes d’information et de communication
-
-_Le bot glossaire de Slack est une instance de [`glossary-bot`](https://github.com/codeforamerica/glossary-bot) hébergée sur Heroku (id : `glossaire-betagouvfr`) sur le compte de @MattiSG._
-
-### `/compte`
-
-Créer un compte mail pour les nouveaux et nouvelles.
-
-À utiliser de préférence dans le canal [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/). Syntaxe :
-
-```
-/compte prenom.nom [*]adresse@mail.com password
-```
-
-- `prenom.nom` est l'identifiant correspondant à une fiche personnelle _déjà publiée sur beta.gouv.fr_ ;
-- `adresse@mail.com` est l'adresse à laquelle on notifiera la création du compte, et vers laquelle les mails seront redirigés (cette redirection est optionnelle et peut être inhibée en ajoutant une étoile devant l'adresse) ;
-- `password` est le mot de passe que la personne concernée vous aura soufflé à l'oreille. Ce mot de passe ne sera pas affiché sur le canal Slack.
-
-_Commande implémentée par [`betaGouvBot`](https://github.com/sgmap/betaGouvBot) et hébergée sur le Heroku de l'Incubateur._
-
-### `/badge`
-
-Demander l'édition d'un badge pour l'accès aux [[locaux]] de Mirabeau.
-
-À utiliser de préférence dans le canal [🔒`#incubateur-secretaria`](https://startups-detat.slack.com/messages/incubateur-secretaria/). Syntaxe :
-
-```
-/badge prenom.nom
-```
-
-où `prenom.nom` est l'identifiant correspondant à une fiche personnelle *déjà publiée sur beta.gouv.fr*.
-
-_Commande implémentée par [`betaGouvBot`](https://github.com/sgmap/betaGouvBot) hébergée sur le Heroku de l'Incubateur._
 
 
 ## Conventions emojis

@@ -1,3 +1,5 @@
+# Standup
+
 L’incubateur, en tant qu’organisation, est un produit vivant construit par ses membres. La revue de portfolio, aka « le standup », en est l’instance officielle pour partager avec ses pairs sur les avancées des produits de tout·e·s et de chacun·e, aka « l’impact sur le réel », aussi bien que sur les aspects transverses et stratégiques du collectif.
 
 [[illustrations/standup.jpg]]

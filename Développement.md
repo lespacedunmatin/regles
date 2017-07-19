@@ -1,5 +1,4 @@
-Contraintes du développement logiciel
-=====================================
+# Contraintes du développement logiciel
 
 ## Langue
 
@@ -72,4 +71,4 @@ Un outil ou composant logiciel qui n'est pas nécessaire pour que le produit tie
 
 ## Licence
 
-Voir [[comment publier | Publier ]].
+Voir la page [[licences]].

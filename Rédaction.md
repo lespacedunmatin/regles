@@ -1,28 +1,6 @@
-Comment mettre nos productions à disposition du public
-======================================================
+# Rédaction de texte
 
-Licence
--------
-
-Sauf demande expresse justifiée et discutée en interne, notre code est publié sous licence libre. Une licence [AGPL-3.0](http://www.gnu.org/licenses/agpl-3.0.fr.html) est une bonne valeur par défaut.
-
-### Compatibilité
-
-Attention, si vous incluez du code externe dans le vôtre (pas du lien, mais bien de la copie), à n'inclure que du code sous une licence compatible avec la licence AGPL.
-
-Si vous utilisez des bibliothèques non compatibles AGPL, pensez à le [préciser dans la licence](http://www.gnu.org/licenses/gpl-faq.html#GPLIncompatibleLibs) avant la phase de passation.
-
-### Appliquer une licence
-
-Inclure le fichier de licence [au format texte brut](http://www.gnu.org/licenses/agpl-3.0.txt) à la racine du dépôt concerné, sous le titre `LICENSE.AGPL.txt`.
-
-> Ce nom en améliore la découvrabilité.
-
-Si vous travaillez sur un module NPM, pensez à ajouter la propriété `"license": "AGPL-3.0"` dans votre `package.json`.
-
-
-Vocabulaire
------------
+## Vocabulaire
 
 ### Handicap
 
@@ -33,8 +11,7 @@ On parle de personne « en situation de [handicap](http://www.legifrance.gouv.f
 [Source](http://tanguyreve.unblog.fr/2012/05/03/personne-handicapee-ou-personne-en-situation-de-handicap/).
 
 
-Syntaxe
--------
+## Syntaxe
 
 ### Écriture épicène
 
@@ -50,8 +27,7 @@ Cependant, pour fluidifier la lecture, plutôt que des parenthèses, utilisez le
 > Pour en savoir plus, le [Haut Conseil à l’Égalité entre les femmes et les hommes](http://www.haut-conseil-egalite.gouv.fr/) a élaboré un [Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hcefh__guide_pratique_com_sans_stereo-_vf-_2015_11_05.pdf).
 
 
-Typographie
------------
+## Typographie
 
 ### Guillemets
 
@@ -62,16 +38,3 @@ Les guillemets français sont [`«`](http://unicode-table.com/fr/00AB/) et [`»`
 ### Points de suspension
 
 Les points de suspension sont [`…`](http://unicode-table.com/fr/2026/) et non `...` (trois points). Cette distinction est importante pour les sauts de ligne, les lecteurs d'écran et le copier-coller.
-
-
-Suivi d'usage (_analytics_)
----------------------------
-
-Toutes les statistiques d'usage des produits web sont disponibles sur l'instance [Piwik](https://piwik.org) publique [`stats.data.gouv.fr`](https://stats.data.gouv.fr). Cette transparence est importante pour incarner notre démarche d'ouverture et de collaboration avec les citoyens.
-
-> Pour ne pas gonfler artificiellement ces statistiques, les IP suivantes peuvent être exclues dans Piwik :
->
-> - `185.24.184.74` (Mirabeau)
-> - `46.218.59.235` (ADSL Sully)
-> - `89.225.241.174` (fibre Sully)
-> - `46.218.46.150` (Mutinerie)

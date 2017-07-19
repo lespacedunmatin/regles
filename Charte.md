@@ -1,6 +1,4 @@
-Beta.gouv inaugure une nouvelle manière de travailler pour le service public. Nos pratiques auto-gestionnaires se fondent sur les valeurs de respect, de confiance et d'autonomie.
-
-[[illustrations/timer.jpg]]
+# Charte
 
 Ici, on a le droit…
 
@@ -39,11 +37,3 @@ Ici, on a le droit…
 - de prendre sa journée
 
 > D'après [Gov.UK](https://twitter.com/gilest/status/735131901900521472), traduction par [BetaGouv](https://twitter.com/hussardnum/status/735438348215541762).
-
-
-Ligne de conduite sur Slack
----------------------------
-
-TL;DR : les canaux publics de Slack ne sont pas la machine à café. Moins de :hankey: et plus de :heart:
-
-> Il faut à mon avis être très précis sur ce que l’on considère comme « déplacé ». Soyons iconoclastes, et n’ayons pas peur de parler de quoi que se soit s’il le faut ; mais restons respectueux des personnes avec qui nous pouvons être amenés à interagir, quoi que l’on pense d’elles, surtout en évitant les invectives, attaques et autres trolls. La censure étant un mécanisme de contrôle social et de la pensée, on risque de perdre notre quintessence rénovatrice et disruptive si l’on n’arrive pas à maîtriser cet enjeu.
