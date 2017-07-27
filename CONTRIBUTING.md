@@ -9,5 +9,5 @@ Concrètement :
 La modification sera acceptée si :
 
 - Au moins 10 % des membres listés sur la page [Communauté](http://beta.gouv.fr/communaute.html) ont approuvé la dernière version de la proposition (explicitement, via la fonctionnalité _review_ de GitHub).
-- Aucun membre n'oppose de veto.
+- Aucun membre n'y oppose une objection raisonnable.
 - Au moins 7 jours se sont écoulés sans qu'il n'y ait eu d'amendement à la proposition.
