@@ -37,4 +37,4 @@ Les guillemets français sont [`«`](http://unicode-table.com/fr/00AB/) et [`»`
 
 ### Points de suspension
 
-Les points de suspension sont [`…`](http://unicode-table.com/fr/2026/) et non `...` (trois points). Cette distinction est importante pour les sauts de ligne, les lecteurs d'écran et le copier-coller.
+Les points de suspension sont [`…`](http://unicode-table.com/fr/2026/) et non `...` (trois points). Cette distinction est importante pour les sauts de ligne, les lecteurs d'écran et le copier-coller (raccourci sous macOS : `⎇⇧;`).
